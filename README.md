@@ -26,7 +26,10 @@ Here are some ideas to get you started:
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
 ![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 -->
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="76dc7203-d62d-4e50-bc99-be198763c48f" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+```html
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="76dc7203-d62d-4e50-bc99-be198763c48f" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
