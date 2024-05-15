@@ -33,5 +33,5 @@ Here are some ideas to get you started:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="76dc7203-d62d-4e50-bc99-be198763c48f" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![Google Advanced Data Analytics Certificate](https://www.credly.com/badges/76dc7203-d62d-4e50-bc99-be198763c48f/public_url)
+
