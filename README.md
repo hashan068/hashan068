@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
 <!-- Level 3: Add custom code -->
 
@@ -21,15 +20,6 @@ Here are some ideas to get you started:
 // 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 -->
 👩🏻‍🎓 Studying Information Technology at the University of Kelaniya, Sri Lanka.<br/>
-
-
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats 
-![](https://github-readme-stats.vercel.app/api?username=xsol05&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
--->
-```html
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="76dc7203-d62d-4e50-bc99-be198763c48f" data-share-badge-host="https://www.credly.com"></div>
-<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -42,3 +32,6 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="76dc7203-d62d-4e50-bc99-be198763c48f" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
