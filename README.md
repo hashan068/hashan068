@@ -2,12 +2,6 @@
 <!--
 **hashan068/hashan068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<!--START_SECTION:badges-->
-
-![Google](https://www.credly.com/badges/76dc7203-d62d-4e50-bc99-be198763c48f/public_url)
-<!--END_SECTION:badges-->
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -29,6 +23,13 @@ Here are some ideas to get you started:
 // 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 -->
 👩🏻‍🎓 Studying Information Technology at the University of Kelaniya, Sri Lanka.<br/>
+
+<!--START_SECTION:badges-->
+
+## 🏅 Certifications
+
+[![Google Advanced Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/2fcf863e-0d0f-4a0f-8080-1bcde208ee62/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/76dc7203-d62d-4e50-bc99-be198763c48f/public_url)
+<!--END_SECTION:badges-->
 
 ## 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
