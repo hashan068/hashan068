@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 
 ## 🏅 Certifications
 
-[![Google Advanced Data Analytics Professional Certificate](https://images.credly.com/size/110x110/images/2fcf863e-0d0f-4a0f-8080-1bcde208ee62/GCC_badge_DA_1000x1000.png)](https://www.credly.com/badges/76dc7203-d62d-4e50-bc99-be198763c48f/public_url)
+[![Meta Back-End Developer Certificate](./meta-back-end-developer-certificate.png)](https://www.credly.com/badges/cd68fd9c-d0e6-4b61-94c8-5ce7447644f9/public_url)
+[![Google Advanced Data Analytics Professional Certificate](./google-advanced-data-analytics-certificate.png)](https://www.credly.com/badges/76dc7203-d62d-4e50-bc99-be198763c48f/public_url)
 <!--END_SECTION:badges-->
 
 ## 💻 Tech Stack
