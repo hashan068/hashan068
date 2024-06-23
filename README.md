@@ -2,6 +2,12 @@
 <!--
 **hashan068/hashan068** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<!--START_SECTION:badges-->
+
+![Google](https://www.credly.com/badges/76dc7203-d62d-4e50-bc99-be198763c48f/public_url)
+<!--END_SECTION:badges-->
+
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
