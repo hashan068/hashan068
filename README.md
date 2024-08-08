@@ -28,8 +28,9 @@ Here are some ideas to get you started:
 
 ## 🏅 Certifications
 
-[![Google Advanced Data Analytics Professional Certificate](./google-advanced-data-analytics-certificate.png)](https://www.credly.com/badges/76dc7203-d62d-4e50-bc99-be198763c48f/public_url)
-[![Meta Back-End Developer Certificate](./meta-back-end-developer-certificate.png)](https://www.credly.com/badges/cd68fd9c-d0e6-4b61-94c8-5ce7447644f9/public_url)
+<img src="./google-advanced-data-analytics-certificate.png" width="200" height="100">
+<img src="./meta-back-end-developer-certificate.png" width="200" height="100">
+
 
 <!--END_SECTION:badges-->
 
