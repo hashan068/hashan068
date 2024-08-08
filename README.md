@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ## 🏅 Certifications
 
 <img src="./google-advanced-data-analytics-certificate.png" width="200" height="200">
-<img src="./meta-back-end-developer-certificate.png" width="200" height="200">
+<img src="./meta-back-end-developer-certificate.png" width="150" height="150">
 
 
 <!--END_SECTION:badges-->
