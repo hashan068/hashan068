@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 // 🌷 #learninginpublic in my [digital garden](https://magdelinehuang.com/)<br/>
 // 💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 -->
-👩🏻‍🎓 Studying Information Technology at the University of Kelaniya, Sri Lanka.<br/>
+.<br/>
 
 <!--START_SECTION:badges-->
 
