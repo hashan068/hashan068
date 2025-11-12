@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 <img src="./google-advanced-data-analytics-certificate.png" width="200" height="200"> <img src="./meta-back-end-developer-certificate.png" width="150" height="150">
 
-[![GitHub Views](https://komarev.com/ghpvc/?username=hashan068&color=FAC151)][1]
+![GitHub Views](https://komarev.com/ghpvc/?username=hashan068&color=FAC151)
 
 <!--END_SECTION:badges-->
 
